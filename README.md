@@ -1,16 +1,93 @@
-# React + Vite
+# 🚀 Lenah Devs - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, immersive developer portfolio built with **React** and **Tailwind CSS**. This project showcases my journey as a Full-Stack Developer, featuring interactive project filtering, a custom AI assistant, and a responsive "Space/Dark Mode" aesthetic.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Insert your Vercel Link Here](https://your-link.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Portfolio Preview](src/assets/logo.png) 
+## ✨ Key Features
 
-## React Compiler
+- **🌌 Space-Themed UI:** A consistent dark mode aesthetic with animated star backgrounds and glassmorphism effects.
+- **🤖 AI Assistant:** A custom-built chatbot simulation that answers questions about my skills and availability.
+- **📂 Advanced Project Filtering:** Filter projects by **Solo vs. Group** and **Completed vs. Ongoing** status.
+- **🏆 Certificates Showcase:** A grid layout displaying professional certifications with verification links.
+- **contact 3D Interaction:** A unique "Bouncing & Flipping" contact card using 3D CSS transforms.
+- **📱 Fully Responsive:** Optimized for mobile, tablet, and desktop views.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Framework:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Routing:** React Router DOM v6
+- **Deployment:** Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+Make sure you have **Node.js** installed.
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/yourusername/portfolio-v2.git](https://github.com/yourusername/portfolio-v2.git)
+   cd portfolio-v2
+Install dependencies
+
+Bash
+
+npm install
+Run the development server
+
+Bash
+
+npm run dev
+Open your browser Navigate to http://localhost:5173 to view the site.
+
+📂 Project Structure
+Plaintext
+
+src/
+├── assets/          # Images (Logos, Project Screenshots, Certificates)
+├── components/      # Reusable UI components (Navbar, Footer, Hero)
+│   ├── AiAssistant.jsx   # The floating Chatbot
+│   └── ...
+├── data/            # Static data files (projects.js, certificates.js)
+├── pages/           # Main page views (Home, About, Projects, Contact)
+└── App.jsx          # Main routing configuration
+🤝 Contact
+Lenah Devs 📍 University of Eastern Africa, Baraton (Kenya)
+
+📧 lenah.devs@example.com
+
+💼 LinkedIn Profile
+
+© 2025 Lenah Devs. Built with React & 💜.
+
+
+---
+
+### Step 3: Push it to GitHub
+
+Now that you have created and saved the file, you need to send it to your GitHub repository so it appears on your main page.
+
+Run these three commands in your terminal:
+
+1.  **Add the new file:**
+    ```bash
+    git add README.md
+    ```
+
+2.  **Commit the change:**
+    ```bash
+    git commit -m "Added detailed documentation"
+    ```
+
+3.  **Push to GitHub:**
+    ```bash
+    git push
+    ```
