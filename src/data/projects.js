@@ -1,7 +1,7 @@
 import { Code2, Table2, Terminal, ShieldCheck, Database, Layout } from "lucide-react";
 import BitsaImage from "../assets/BITSASC.jpg";
 import NutrixImage from "../assets/Nutrix.jpg";
-import ExcelImage from "../assets/Excel.jpg";
+import ExcelImage from "../assets/excel.jpg";
 import cctvImage from "../assets/cctv.jpg";
 import smigImage from "../assets/smig.png";
 import portfolioImage from "../assets/portfolio.jpg";

@@ -62,32 +62,8 @@ src/
 🤝 Contact
 Lenah Devs 📍 University of Eastern Africa, Baraton (Kenya)
 
-📧 lenah.devs@example.com
+📧 hellenmochama7@gmail.com
 
 💼 LinkedIn Profile
 
-© 2025 Lenah Devs. Built with React & 💜.
-
-
----
-
-### Step 3: Push it to GitHub
-
-Now that you have created and saved the file, you need to send it to your GitHub repository so it appears on your main page.
-
-Run these three commands in your terminal:
-
-1.  **Add the new file:**
-    ```bash
-    git add README.md
-    ```
-
-2.  **Commit the change:**
-    ```bash
-    git commit -m "Added detailed documentation"
-    ```
-
-3.  **Push to GitHub:**
-    ```bash
-    git push
-    ```
+© 2025 
