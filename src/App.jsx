@@ -7,7 +7,7 @@ import { CertificatesPage } from "./pages/CertificatesPage";
 import { ContactPage } from "./pages/ContactPage";
 import { Footer } from "./components/Footer";
 import { AiAssistant } from "./components/AiAssistant";
-import { NotFound } from "./pages/NotFound"; 
+
 
 function App() {
   return (
@@ -25,8 +25,7 @@ function App() {
         <Route path="/certificates" element={<CertificatesPage />} />
         <Route path="/contact" element={<ContactPage />} />
 
-        {/* 404 Route */}
-        <Route path="*" element={<NotFound />} />
+      
         
       </Routes>
       <Footer />
