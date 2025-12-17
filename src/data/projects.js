@@ -68,8 +68,8 @@ export const projects = [
     status: "completed",
     description: "My first portfolio website showcasing my early frontend development skills and resume.",
     tech: ["React", "Tailwind", "Framer Motion"],
-    github: "https://github.com/yourusername/portfolio-v1",
-    live: "https://lenah-portfolio-v1.vercel.app",
+    github: "https://github.com/elledell",
+    live: "https://portfolio-nine-eta-r3ixl22avc.vercel.app/",
     image: portfolioImage
   }
 ];

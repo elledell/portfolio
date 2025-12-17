@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Navbar } from "../components/Navbar";
 import { projects } from "../data/projects";
+import { StarBackground } from "../components/StarBackground";
 import { motion, AnimatePresence } from "framer-motion";
 import { Github, ExternalLink, Code2, Users, FolderClock, CheckCircle2 } from "lucide-react";
 // Import useLocation to read URL parameters
@@ -34,7 +35,7 @@ export const ProjectsPage = () => {
   return (
     <div className="min-h-screen bg-[#030014] text-white overflow-x-hidden">
       <Navbar />
-      
+      <StarBackground />
       <div className="pt-28 pb-20 px-4 md:px-8 max-w-7xl mx-auto">
         <motion.div 
           initial={{ opacity: 0, y: 20 }}

@@ -91,7 +91,7 @@ export const Hero = () => {
             className="flex flex-col md:flex-row items-center justify-center gap-4 mt-8"
           >
             <a 
-              href="#projects" 
+              href="/projects"
               className="group relative px-8 py-3 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-semibold transition-all duration-300 shadow-[0_0_20px_rgba(37,99,235,0.5)] hover:shadow-[0_0_30px_rgba(37,99,235,0.7)] hover:-translate-y-1 flex items-center gap-2"
             >
               View My Work

@@ -2,7 +2,7 @@
 
 A modern, immersive developer portfolio built with **React** and **Tailwind CSS**. This project showcases my journey as a Full-Stack Developer, featuring interactive project filtering, a custom AI assistant, and a responsive "Space/Dark Mode" aesthetic.
 
-🔗 **Live Demo:** [Insert your Vercel Link Here](https://your-link.app)
+🔗 **Live Demo:** (https://portfolio-nine-eta-r3ixl22avc.vercel.app/)
 
 ![Portfolio Preview](src/assets/logo.png) 
 ## ✨ Key Features
@@ -34,7 +34,7 @@ Make sure you have **Node.js** installed.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/portfolio-v2.git](https://github.com/yourusername/portfolio-v2.git)
+   git clone [https://github.com/elledell/portfolio-v2.git](https://github.com/elledell/portfolio-v2.git)
    cd portfolio-v2
 Install dependencies
 
@@ -50,7 +50,7 @@ Open your browser Navigate to http://localhost:5173 to view the site.
 
 📂 Project Structure
 Plaintext
-
+   ```
 src/
 ├── assets/          # Images (Logos, Project Screenshots, Certificates)
 ├── components/      # Reusable UI components (Navbar, Footer, Hero)
@@ -60,6 +60,7 @@ src/
 ├── pages/           # Main page views (Home, About, Projects, Contact)
 └── App.jsx          # Main routing configuration
 🤝 Contact
+```
 Lenah Devs 📍 University of Eastern Africa, Baraton (Kenya)
 
 📧 hellenmochama7@gmail.com
